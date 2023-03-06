@@ -1,4 +1,7 @@
 body {
-    font-family: 'Indie Flower', cursive;
-    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+    font-weight: 600;
 }
